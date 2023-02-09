@@ -1,0 +1,5 @@
+﻿  main.cpp
+  speechManage.cpp
+G:\c++\演讲比赛\speechManage.cpp(50,20): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+  演讲比赛.vcxproj -> G:\c++\演讲比赛\Debug\演讲比赛.exe
